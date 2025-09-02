@@ -34,4 +34,5 @@ eksctl create cluster \
   --nodes-max 3
 ```
 
+
 By default, eksctl will provision EC2 nodes if you don’t use --fargate.
